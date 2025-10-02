@@ -1,7 +1,9 @@
 ﻿{
     "pack": {
-        "pack_format": 32,
+        "pack_format": 69,
+        "min_format": 32,
+        "max_format": 69,
         "description": "Galmuri 11 Bold\nCaxton\uBAA8\uB4DC \uD544\uC694",
-        "supported_formats": [16, 999]
+        "supported_formats": [32, 69]
     }
 }

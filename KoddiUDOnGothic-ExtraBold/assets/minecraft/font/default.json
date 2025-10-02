@@ -2,7 +2,7 @@
      "providers": [
          {
              "type": "ttf",
-             "file": "minecraft:KoddiUDOnGothic-ExtraBold.ttf",
+             "file": "minecraft:koddiudongothic-extrabold.ttf",
  			"shift": [-0.3, -0.5],
  			"size": 9.0,
  			"oversample": 4.0
