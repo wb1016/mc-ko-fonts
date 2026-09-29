@@ -1,9 +1,9 @@
 ﻿{
     "pack": {
-        "pack_format": 97,
-        "min_format": 32,
-        "max_format": 98,
-        "description": "KODDI Universal Design font ExtraBold",
-        "supported_formats": [32, 98]
+        "pack_format": 15,
+		"min_format": 15,
+		"max_format": 200,
+		"supported_formats": {"min_inclusive": 15, "max_inclusive": 200},
+        "description": "KODDI Universal Design font ExtraBold"
     }
 }
