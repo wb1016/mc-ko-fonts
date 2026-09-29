@@ -1,9 +1,9 @@
 ﻿{
     "pack": {
-        "pack_format": 69,
+        "pack_format": 97.1,
         "min_format": 32,
-        "max_format": 69,
+        "max_format": 97.1 ,
         "description": "Galmuri 11 Bold",
-        "supported_formats": [32, 69]
+        "supported_formats": [32, 97.1]
     }
 }
